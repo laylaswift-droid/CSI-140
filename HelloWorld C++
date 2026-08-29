@@ -1,0 +1,27 @@
+#include <iostream>
+using namespace std;
+
+/*
+This function calculates the age of a person
+*/
+
+int main()
+{
+    //Variable Declarations
+    int currentYear = 2026;
+    int birthYear;
+    int age;
+
+    //Intitialization
+    birthYear = 1976;
+
+    //Calculate Age
+    age = currentYear - birthYear;
+
+    //Report the result
+    cout << "My age is: " << age << endl;
+
+    cout << "Hello World!\n";
+    cout << "My Name is Layla Swift" << endl << "\n" << 1978;
+    system("pause");
+}
