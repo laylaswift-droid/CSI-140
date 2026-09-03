@@ -1,7 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="FindingAverage/FindingAverage.vcxproj" Id="a70f21f8-9aae-4777-9263-8af613970c7d" />
-</Solution>
