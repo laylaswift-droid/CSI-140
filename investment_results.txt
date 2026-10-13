@@ -1,0 +1,10 @@
+STOCK                    BUYING AMT    BUYING COMM    SELLING AMT   SELLING COMM         PROFIT
+Google (GOOG)              52201.00        1044.02       41652.80         624.79      -12217.01
+Apple (AAPL)               58390.50        1167.81       60273.00        1084.91        -370.22
+Microsoft (MSFT)            2506.00          62.65        2005.60          40.11        -603.16
+
+       Total Buying Amount:       113097.50
+   Total Buying Commission:         2274.48
+      Total Selling Amount:       103931.40
+  Total Selling Commission:         1749.82
+              Grand Profit:       -13190.40
