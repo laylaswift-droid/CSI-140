@@ -62,7 +62,7 @@ int main()
 		grossPay = (REGULAR_HOURS * PAY_RATE) + ((hours - REGULAR_HOURS) * 
 			OVERTIME_RATE);
 
-	if (dependents >= 3)
+	if (dependents > 3)
 		dependents = 35.00;
 	else
 		dependents = 0.00;
