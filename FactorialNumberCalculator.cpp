@@ -38,6 +38,13 @@ int main()
 		cout << "Enter a number: ";
 		cin >> num;
 
+		// Check for termination condition
+		if (num == -1)
+		{
+			cout << "Bye-Bye!" << endl;
+			break;
+		}
+
 		// Calculate factorial
 		result = 1;
 		for (int i = 1; i <= num; i++) 
@@ -49,13 +56,6 @@ int main()
 		else
 			cout << setw(16) << right << "Result: " << result << endl;
 		cout << "\n";
-
-		// Check for termination condition
-		if (num == -1)
-		{
-			cout << "Bye-Bye!" << endl;
-			break;
-		}	
 	}
 }
 
